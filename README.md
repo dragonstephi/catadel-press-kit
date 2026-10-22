@@ -10,6 +10,8 @@ CATadel: Slot Defense is a single-player slot-defense roguelite for Windows PC. 
 
 ## Downloads
 
+Video refreshed 22 October 2026: the 20-second gameplay clip now uses Demo v1.6 footage, including miniature cats, live coin collection and carriage combat. Existing screenshots and illustrated guides retain their 20 October v1.5 dates; this release is a video-only refresh.
+
 The latest release contains the complete press kit ZIP: twelve 1920 x 1080 gameplay PNGs, a 20-second gameplay MP4, transparent logos, existing red key art, five-language illustrated guides, and image captions.
 
 Languages: English, Korean, Simplified Chinese, German, and Japanese. The refreshed gameplay screenshots use the English interface. Public full-game release window: Q4 2026.
